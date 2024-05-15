@@ -1,2 +1,2 @@
-# katkit_implementation
-Implementation of KatKit as presented at DH2024
+# katkit_toolbox
+Implementation of the KatKit toolbox as presented at DH2024
