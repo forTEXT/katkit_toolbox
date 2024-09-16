@@ -8,6 +8,6 @@ You can simply open the Jupyter Notebook in Google Colab by clicking on the **Op
 
 <br>
 
-> **Gerstorfer, Dominik, Häußler, Julian and Eveyin Gius.** 2024: "Reinventing (Literary) Operationalization. Introducing KatKit, a toolkit for modeling humanistic concepts in Python." In *DH2024 Book of Abstracts*. Washington, D.C.: Zenodo. LINK.
+> **Gerstorfer, Dominik, Häußler, Julian and Evelyn Gius.** 2024: "Reinventing (Literary) Operationalization. Introducing KatKit, a toolkit for modeling humanistic concepts in Python." In *DH2024 Book of Abstracts*. Washington, D.C.: Zenodo. LINK.
 
 > **Häußler, Julian, Gerstorfer, Dominik and Evelyn Gius.** 2024: "Using Jupyter Notebooks as Research and Presentation Environment – Experiences from the Project KatKit." Lightning Talk at the DH2024 Workshop – Computational Literary Studies: How To Do Research Responsibly, Washington, D.C., USA. https://doi.org/10.58079/122j8.
